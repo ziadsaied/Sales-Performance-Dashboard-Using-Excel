@@ -34,6 +34,6 @@ Enable Excel macros (if prompted) and explore the PivotTables, charts, and slice
 
 👤 Author
 Ziad Saied
-📧 Email: ziyadsaed5@gmail.com
-🔗 LinkedIn: linkedin.com/in/ziad-saiieed
-💻 GitHub: github.com/ziadsaied
+- 📧 Email: ziyadsaed5@gmail.com
+- 🔗 LinkedIn: linkedin.com/in/ziad-saiieed
+- 💻 GitHub: github.com/ziadsaied
